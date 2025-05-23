@@ -7,7 +7,7 @@
   Atualmente, estudo Sistemas de Informação e busco aprimorar minhas habilidades em bancos de dados, APIs e arquitetura de software.
   
 💻 Tecnologias & Ferramentas
-  🔹 Linguagens: Python, Java
+  🔹 Linguagens: Python, JavaScript
   🔹 Frameworks: Flask, Django
   🔹 Banco de Dados: PostgreSQL, MySQL, SQLite
   🔹 Ferramentas: Git
@@ -24,4 +24,3 @@
 💼 LinkedIn: https://www.linkedin.com/in/guilhermecarlos03/
 📧 E-mail: guicasii5@gmail.com
 
-⚡ Fun fact: Além de programar, gosto de jogos com um estilo retrô, como Mario! 🎮
