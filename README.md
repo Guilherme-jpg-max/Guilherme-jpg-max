@@ -8,7 +8,7 @@
   
 💻 Tecnologias & Ferramentas
   🔹 Linguagens: Python, JavaScript
-  🔹 Frameworks: Flask, Django
+  🔹 Frameworks: Flask, Django, FastApi
   🔹 Banco de Dados: PostgreSQL, MySQL, SQLite
   🔹 Ferramentas: Git
   
