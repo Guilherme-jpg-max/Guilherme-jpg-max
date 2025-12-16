@@ -7,7 +7,7 @@
 ### Sobre mim
 
 <div align="justify">
-  Sou um estudante de tecnologia atualmente no <b>6º período do curso de Sistemas de Informação</b>, cursando no Instituto Federal de Ciência e Tecnologia do Ceará (<b>IFCE</b>). Minha jornada no mundo da programação é focada em <b>desenvolvimento Back-end</b>, onde minhas habilidades são moldadas por projetos acadêmicos e pessoais. Estou sempre buscando aprender e aplicar novos conhecimentos para construir soluções robustas e eficientes.
+  Sou um estudante de tecnologia atualmente no <b>7º período do curso de Sistemas de Informação</b>, cursando no Instituto Federal de Ciência e Tecnologia do Ceará (<b>IFCE</b>). Minha jornada no mundo da programação é focada em <b>desenvolvimento Back-end</b>, onde minhas habilidades são moldadas por projetos acadêmicos e pessoais. Estou sempre buscando aprender e aplicar novos conhecimentos para construir soluções robustas e eficientes.
 </div>
 
 ### 💻 Minhas Habilidades
