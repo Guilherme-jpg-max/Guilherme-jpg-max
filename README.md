@@ -51,7 +51,7 @@
 
 
 
-### 🌐 Onde me encontrar
+### Onde me encontrar
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guilhermecarlos03" target="_blank" rel="noopener noreferrer">
