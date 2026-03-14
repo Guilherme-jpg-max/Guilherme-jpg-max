@@ -13,13 +13,12 @@
 </div>
 
 ### Experiência Atual
-* Cargo:** Desenvolvedor Fullstack (Estagiário)
-* Stack Principal:** .NET, C#, React, Typescript, JQuery PostgreSQL e SQL Server.
----
+ Cargo: Desenvolvedor Fullstack (Estagiário)
+ Stack Principal: .NET, C#, React, Typescript, JQuery PostgreSQL e SQL Server.
 
 ### Minhas Habilidades
 
-#### **Back-end & Core**
+#### Back-end & Core**
 <div align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
@@ -28,7 +27,7 @@
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </div>
 
-#### **Bancos de Dados (Foco em Performance)**
+#### Bancos de Dados (Foco em Performance)**
 <div align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
@@ -36,7 +35,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </div>
 
-#### **Front-end & Tooling**
+#### Front-end
 <div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
