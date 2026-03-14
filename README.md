@@ -13,8 +13,8 @@
 </div>
 
 ### Experiência Atual
-* **Cargo:** Desenvolvedor Back-end (Estagiário)
-* **Stack Principal:** .NET, C#, PostgreSQL e SQL Server.
+* **Cargo:** Desenvolvedor Fullstack (Estagiário)
+* **Stack Principal:** .NET, C#, React, Typescript, JQuery PostgreSQL e SQL Server.
 * **Destaque:** Desenvolvimento de um sistema de georreferenciamento de precisão (coordenadas X, Y, Z) para mapeamento logístico fabril.
 
 ---
