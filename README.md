@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, meu nome é Guilherme Carlos!</h1>
-  <p><b>Desenvolvedor Back-end .NET | Estudante de Sistemas de Informação</b></p>
+  <p><b>Desenvolvedor Fullstack com foco no ecosistema .NET, React | Estudante de Sistemas de Informação</b></p>
 </div>
 
 ---
