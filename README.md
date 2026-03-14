@@ -14,8 +14,7 @@
 
 ### Experiência Atual
 * Cargo:** Desenvolvedor Fullstack (Estagiário)
-* Stack Principal:** .NET, C#, React, Typescript, JQuery PostgreSQL e SQL Server.* **Destaque:** Desenvolvimento de um sistema de georreferenciamento de precisão (coordenadas X, Y, Z) para mapeamento logístico fabril.
-
+* Stack Principal:** .NET, C#, React, Typescript, JQuery PostgreSQL e SQL Server.
 ---
 
 ### Minhas Habilidades
