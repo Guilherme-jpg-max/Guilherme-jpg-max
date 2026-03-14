@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, meu nome é Guilherme Carlos!</h1>
-  <p><b>Desenvolvedor Fullstack com foco no ecosistema .NET, React | Estudante de Sistemas de Informação</b></p>
+  <p><b>Desenvolvedor Fullstack | Estudante de Sistemas de Informação</b></p>
 </div>
 
 ---
@@ -8,7 +8,7 @@
 ###  Sobre mim
 
 <div align="justify">
-  Sou Desenvolvedor Back-end com foco no ecossistema <b>.NET</b> e cursando o 7º período de Sistemas de Informação no <b>IFCE</b>. Atualmente, atuo como <b>Estagiário em Desenvolvimento de Software</b>
+  Sou Desenvolvedor fullstack com foco no ecossistema <b>.NET</b> e cursando o 7º período de Sistemas de Informação no <b>IFCE</b>. Atualmente, atuo como <b>Estagiário em Desenvolvimento de Software</b>
   Minha jornada é marcada pela construção de soluções robustas, APIs escaláveis e uma paixão por arquitetura de software e bancos de dados relacionais.
 </div>
 
