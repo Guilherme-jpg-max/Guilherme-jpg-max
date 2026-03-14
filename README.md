@@ -8,8 +8,7 @@
 ###  Sobre mim
 
 <div align="justify">
-  Sou Desenvolvedor Back-end com foco no ecossistema <b>.NET</b> e cursando o 7º período de Sistemas de Informação no <b>IFCE</b>. Atualmente, atuo como <b>Estagiário em Desenvolvimento de Software</b>, onde aplico C# e .NET para resolver problemas reais de georreferenciamento e gestão de dados industriais.
-  
+  Sou Desenvolvedor Back-end com foco no ecossistema <b>.NET</b> e cursando o 7º período de Sistemas de Informação no <b>IFCE</b>. Atualmente, atuo como <b>Estagiário em Desenvolvimento de Software</b>
   Minha jornada é marcada pela construção de soluções robustas, APIs escaláveis e uma paixão por arquitetura de software e bancos de dados relacionais.
 </div>
 
