@@ -8,12 +8,12 @@
 ###  Sobre mim
 
 <div align="justify">
-  Sou Desenvolvedor fullstack com foco no ecossistema <b>.NET</b> e cursando o 7º período de Sistemas de Informação no <b>IFCE</b>. Atualmente, atuo como <b>Estagiário em Desenvolvimento de Software</b>
+  Sou Desenvolvedor fullstack com foco no ecossistema <b>.NET</b> e cursando o 7º período de Sistemas de Informação no <b>IFCE</b>. Atualmente, atuo como <b> Desenvolvimento de Software</b>
   Minha jornada é marcada pela construção de soluções robustas, APIs escaláveis e uma paixão por arquitetura de software e bancos de dados relacionais.
 </div>
 
 ### Experiência Atual
- Cargo: Desenvolvedor Fullstack (Estagiário)
+ Cargo: Desenvolvedor Fullstack
  Stack Principal: .NET, C#, React, Typescript, JQuery PostgreSQL e SQL Server.
 
 ### Minhas Habilidades
